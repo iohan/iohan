@@ -4,7 +4,7 @@ My goal is to never stop learning and I live by the philosophy that everyday is 
 
 ### Languages and Tools, currently in possession:
 
-React 
+React  
 Javascript  
 Typescript  
 HTML5  
