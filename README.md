@@ -2,6 +2,8 @@
 I'm a Front-end Developer and Tattoo Artist from Gävle, Sweden.  
 My goal is to never stop learning and I live by the philosophy that everyday is a School Day.
 
+![](https://komarev.com/ghpvc/?username=iohan&color=cd9b92&style=flat)
+
 ### Languages and Tools, currently in possession:
 
 React  
@@ -13,9 +15,6 @@ PHP
 Gatsby  
 Contentful  
 SASS  
-
-
-![](https://komarev.com/ghpvc/?username=iohan&color=cd9b92&style=flat)
 
 <!--
 **iohan/iohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
