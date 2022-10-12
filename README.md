@@ -1,6 +1,5 @@
 ### Hi, I'm Johan, 👋 👨🏼‍💻
-I'm a Front-end Developer and Tattoo Artist from Gävle, Sweden.
-
+I'm a Front-end Developer and Tattoo Artist from Gävle, Sweden.  
 My goal is to never stop learning and I live by the philosophy that everyday is a School Day.
 
 ### Languages and Tools:
