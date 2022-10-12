@@ -3,8 +3,8 @@ I'm a Front-end Developer and Tattoo Artist from Gävle, Sweden.
 
 My goal is to never stop learning and I live by the philosophy that everyday is a School Day.
 
-## Languages and Tools:
-### ***(The list keeps growing)***
+### Languages and Tools:
+#### ***(The list keeps growing)***
 
 React
 Javascript
