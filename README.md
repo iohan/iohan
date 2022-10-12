@@ -5,9 +5,9 @@ My goal is to never stop learning and I live by the philosophy that everyday is 
 ### Languages and Tools:
 #### ***(The list keeps growing)***
 
-React
-Javascript
-Typescript
+React 
+Javascript  
+Typescript  
 HTML5
 Python
 PHP
