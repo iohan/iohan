@@ -7,12 +7,12 @@ My goal is to never stop learning and I live by the philosophy that everyday is 
 React 
 Javascript  
 Typescript  
-HTML5
-Python
-PHP
-Gatsby
-Contentful
-SASS
+HTML5  
+Python  
+PHP  
+Gatsby  
+Contentful  
+SASS  
 
 
 ![](https://komarev.com/ghpvc/?username=iohan&color=cd9b92&style=flat)
