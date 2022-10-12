@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Johan, 👋 👨🏼‍💻
+
+![](https://komarev.com/ghpvc/?username=iohan&color=cd9b92&style=flat)
 
 <!--
 **iohan/iohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
