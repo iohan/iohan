@@ -1,6 +1,6 @@
 ### Hi, I'm Johan, 👋 👨🏼‍💻
 I'm a Front-end Developer from Gävle, Sweden.  
-My goal is to never stop learning and I live by the philosophy that everyday is a School Day.
+My goal is to never stop learning and, for me, everyday is School Day.
 
 ### Languages and Tools, currently in possession:
 
