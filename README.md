@@ -1,8 +1,6 @@
 ### Hi, I'm Johan, 👋 👨🏼‍💻
-I'm a Front-end Developer and Tattoo Artist from Gävle, Sweden.  
+I'm a Front-end Developer from Gävle, Sweden.  
 My goal is to never stop learning and I live by the philosophy that everyday is a School Day.
-
-![](https://komarev.com/ghpvc/?username=iohan&color=cd9b92&style=flat)
 
 ### Languages and Tools, currently in possession:
 
