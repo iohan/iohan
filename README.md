@@ -1,3 +1,4 @@
+![alt text](Untitled_Artwork.jpg?raw=true)
 ### Hi, I'm Johan, 👋 👨🏼‍💻
 I'm a Front-end Developer from Gävle, Sweden.  
 **My goal is to never stop learning and, for me, everyday is School Day.**
