@@ -1,5 +1,5 @@
 ![alt text](Untitled_Artwork.jpg?raw=true)
-## Johan says, everyday is School Day!
+## I say, everyday is School Day!
 I'm Johan Östling, a front-end developer located in Gävle, Sweden.  
 **My primary goal in life is to never stop learning.**
 
