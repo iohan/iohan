@@ -1,7 +1,13 @@
 ![alt text](Untitled_Artwork.jpg?raw=true)
-### Hi, I'm Johan, 👋 👨🏼‍💻
-I'm a Front-end Developer from Gävle, Sweden.  
-**My goal is to never stop learning and, for me, everyday is School Day.**
+## Johan says, everyday is School Day
+I'm a front-end developer located in Gävle, Sweden.  
+**My primary goal in life is to never stop learning.**
+
+### Up for hire
+If you need something done in a hurry, let me know on johan.ostling@gmail.com
+
+### Currently working on:
+Desktop Application for a Paper Mill Company using Electron, React, Node.js and SQLite.
 
 ### Languages and Tools, currently in possession:
 
