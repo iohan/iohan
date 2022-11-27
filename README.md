@@ -1,6 +1,6 @@
 ![alt text](Untitled_Artwork.jpg?raw=true)
-## Johan says, everyday is School Day
-I'm a front-end developer located in Gävle, Sweden.  
+## Johan says, everyday is School Day!
+I'm Johan Östling, a front-end developer located in Gävle, Sweden.  
 **My primary goal in life is to never stop learning.**
 
 ### Up for hire
@@ -12,3 +12,4 @@ Desktop Application for a Paper Mill Company using Electron, React, Node.js and 
 ### Languages and Tools, currently in possession:
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,tailwind,react,figma,css,php,py)](https://skills.thijs.gg)
+and counting...
