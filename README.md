@@ -11,5 +11,5 @@ Desktop Application for a Paper Mill Company using Electron, React, Node.js and 
 
 ### Languages and Tools, currently in possession:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,tailwind,react,figma,css,php,py)](https://skillicons.dev)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,tailwind,sqlite,py,php,figma)](https://skillicons.dev)
 and more...
