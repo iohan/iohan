@@ -5,5 +5,5 @@ I'm Johan Östling, developer located in Gävle, Sweden.
 
 ### Languages and Tools, currently in possession:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,typescript,html,css,tailwind,sqlite,py,php,figma)](https://skillicons.dev)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,typescript,nodejs,mongodb,tailwind,sqlite,py,php,figma)](https://skillicons.dev)
 and more...
